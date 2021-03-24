@@ -2,39 +2,32 @@
 Material for the Data Management Workshop at MPI Evolutionary Biology May 17-18 2021
 
 ## Workshop program
-| Time | Title | Presenter |
-|------|-------|----------|
-| 9:00 - 9:10 |  Welcome, Introduction | Carsten Fortmann-Grote, Kristian Ullrich |
-| | | |
+#### Day 1: May 17
+| Time          | Title                                           | Presenter                                |
+|---------------|-------------------------------------------------|------------------------------------------|
+| 9:00 - 9:10   | Welcome, Introduction                           | Carsten Fortmann-Grote, Kristian Ullrich |
+| 9:10 - 9:40   | Why datamanagement? Use cases and user insights | TBA                                      |
+| 9:40 - 10:10  | Introduction to Data Management                 | TBA                                      |
+| 10:10 - 10:30 | Break                                           |                                          |
+| 10:30 - 11:00 | Introduction to SEEK (incl. demo)               | TBA                                      |
+| 11:00 - 12:30 | Hands-on SEEK tutorial (with exercises)         | TBA                                      |
+| 12:30 - 13:30 | Lunch break                                     |                                          |
+| 13:30 - 14:00 | Introduction to SEEK API                        | TBA                                      |
+| 14:00 - 15:00 | SEEK API hands-on tutorial                      | TBA                                      |
+| 15:00 - 15:30 | Break                                           |                                          |
+| 15:30 - 16:00 | Wrap up and discussion                          | All                                      |
 
 
-    * 910-940 use cases  -> map of use cases and solutions: openbis and seek: how to combine
-        * include map of openbis and seek projects at mpi evolbio
-    * 940-1010 data management general intro 20+10
-    * 1010-1030 break
-    * 1030-1100 short intro to seek + demo
-    * 1100-1230 assignments + hands on seek:
-        * Projects - Investigations - Studies - Assays
-        * Datafiles, Documents, Version control
-        * SOP
-        * Samples, sample type, strains, organisms
-        * evtl. Models (-> in theorie nachfragen)
-        * Sharing data
-        * Publishing data
-        * Workflows
-    * 1230-1330 lunch 
-    * 1330-1400 intro to api
-    * 1400-1500 api hands-on
-    * 1500-1530 break
-    * 1530-1600 wrap up and discussion
-    
-#### Tuesday 18.5
-    * 0900-0930  Intro to openBIS
-    * 0930-1000  openBIS use cases
-    * 1000-1030  break
-    * 1030-1100  openBIS demo 
-    * 1100-1230  assignments + hands on
-    * 1230-1300  lunch
-    * 1330-1500  hands on cont.
-    * 1500-1530  break
-    * 1530-1600  workshop wrap up and discussion: seek and openbis: differences, combination
+#### Day 2: May 18
+| Time          | Title                                      | Presenter |
+|---------------|--------------------------------------------|-----------|
+| 9:00 - 9:30   | Introduction to openBIS                    | TBA       |
+| 9:30 - 10:00  | openBIS use cases                          | TBA       |
+| 10:00 - 10:30 | Break                                      |           |
+| 10:30 - 11:00 | openBIS demo                               | TBA       |
+| 11:00 - 12:30 | openBIS hands-on tutorial (with exercises) | TBA       |
+| 12:30 - 13:30 | Lunch                                      |           |
+| 13:30 - 14:00 | Hands-on continued                         | TBA       |
+| 14:00 - 15:00 | Break                                      |           |
+| 15:00 - 16:00 | Workshop wrap-up and discussion            | All       |
+
