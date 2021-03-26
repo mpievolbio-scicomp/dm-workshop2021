@@ -19,15 +19,15 @@ Material for the Data Management Workshop at MPI Evolutionary Biology May 17-18 
 
 
 #### Day 2: May 18
-| Time          | Title                                      | Presenter |
-|---------------|--------------------------------------------|-----------|
-| 9:00 - 9:30   | Introduction to openBIS                    | TBA       |
-| 9:30 - 10:00  | openBIS use cases                          | TBA       |
-| 10:00 - 10:30 | Break                                      |           |
-| 10:30 - 11:00 | openBIS demo                               | TBA       |
-| 11:00 - 12:30 | openBIS hands-on tutorial (with exercises) | TBA       |
-| 12:30 - 13:30 | Lunch                                      |           |
-| 13:30 - 14:00 | Hands-on continued                         | TBA       |
-| 14:00 - 15:00 | Break                                      |           |
-| 15:00 - 16:00 | Workshop wrap-up and discussion            | All       |
+| Time          | Title                                      | Presenter    |
+|---------------|--------------------------------------------|--------------|
+| 9:00 - 9:30   | Introduction to openBIS                    | TBA          |
+| 9:30 - 10:00  | openBIS demo                               | TBA          |
+| 10:00 - 10:30 | Break                                      |              |
+| 10:30 - 12:30 | openBIS hands-on tutorial (with exercises) | TBA          |
+| 12:30 - 13:30 | Lunch                                      |              |
+| 13:30 - 14:30 | Hands-on continued                         | TBA          |
+| 14:30 - 14:45 | Break                                      |              |
+| 14:45 - 15:30 | SEEK-openBIS integration                   | Sven Nahnsen |
+| 15:30 - 16:00 | Workshop wrap-up and discussion            | All          |
 
