@@ -37,8 +37,7 @@ Material for the Data Management Workshop at MPI Evolutionary Biology May 17-18 
 |---------------|-------------------------------------------------|------------------------------------------|
 | 11:00 - 12:30 | openBIS hands-on tutorial (with exercises) | Caterina Barillari, Priyasma  Boumik  (SIS)         |
 | 12:30 - 13:30 | Lunch                                      |              |
-| 13:30 - 14:30 | Hands-on continued                         | Caterina Barillari, Priyasma  Boumik  (SIS)         |
-| 14:30 - 14:45 | Break                                      |              |
-| 14:45 - 15:30 | 
+| 13:30 - 15:00 | Hands-on continued                         | Caterina Barillari, Priyasma  Boumik  (SIS)         |
+| 15:00 - 15:30 | Break                                      |              |
 | 15:30 - 16:00 | Workshop wrap-up and discussion            | All          |
 
