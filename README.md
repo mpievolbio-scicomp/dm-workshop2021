@@ -7,9 +7,9 @@ Material for the Data Management Workshop at MPI Evolutionary Biology May 17-18 
 | Time          | Title                                           | Presenter                                |
 |---------------|-------------------------------------------------|------------------------------------------|
 | 9:00 - 9:10   | Welcome, Introduction                           | Carsten Fortmann-Grote, Kristian Ullrich (MPI Evolutionary Biology) |
-| 9:10 - 9:20   | Introduction to DM 1                            | Wolfgang Mueller (Heidelberg Institute for Theoretical Studies - HITS) |
-| 9:20 - 9:50   | Why datamanagement? Use cases and user insights | Piotr Zadora (DKFZ HD)                                    |
-| 9:50 - 10:10  | Introduction to Data Management II              | Wolfgang Mueller (HITS)                                      |
+| 9:10 - 9:20   | Introduction to Data Management I                            | Wolfgang Müller (Heidelberg Institute for Theoretical Studies - HITS) |
+| 9:20 - 9:50   | Why datamanagement? Use cases and user insights | Piotr Zadora (German Cancer Research Center Heidelberg)                                    |
+| 9:50 - 10:10  | Introduction to Data Management II              | Wolfgang Müller (HITS)                                      |
 | 10:10 - 10:40 | Introduction to SEEK                            | Ulrike Wittig (HITS)                                      |
 | 10:40 - 11:00 | Break                                           |                                          |
 
